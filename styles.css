@@ -1,0 +1,12 @@
+h1{color:pink;}
+h2{color:black;}
+h1{
+   border: 5px dotted black;
+   text-align: center;
+}
+img{
+    border:10px groove black;
+}
+h2{ border:2px solid pink;
+text-align: center;
+}
